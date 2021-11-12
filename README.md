@@ -1,10 +1,8 @@
-# Javascript
+
+ #  CURSO PROFESIONAL DE JAVASCRIPT
 
 
- #  CURSO PROFESIONAL DE JAVASCRIPt
-
-
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.ida.cl%2Fdesarrollo%2Ftypescript-la-evolucion-de-javascript%2F&psig=AOvVaw3dViSDAYSDMG93YdGlt1De&ust=1636767514528000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKCI3qbYkfQCFQAAAAAdAAAAABAI)
+![](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fmax%2F800%2F0*aH8YUI7nqAZ6b-V_.png&imgrefurl=https%3A%2F%2Fmedium.com%2F%40camilomontoyau%2Fhablemos-de-javascript-a4c5070f39e6&tbnid=rJSaf_lnPcDzTM&vet=12ahUKEwjb77bP2JH0AhUwXDABHXoqBLcQMygBegUIARDMAQ..i&docid=-h2zfEYFjyKBRM&w=800&h=300&q=javascript%20&ved=2ahUKEwjb77bP2JH0AhUwXDABHXoqBLcQMygBegUIARDMAQ)
 
 
 
